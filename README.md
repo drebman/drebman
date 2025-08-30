@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drebman
+- 👋 Hi, I’m Destiny!
 - 👀 I’m interested in coding and game design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on fun projects
